@@ -1,3 +1,35 @@
 # Fedora i3
 
-Repositorio de configuraciones de Fedora i3
+## Repositorio de configuraciones de Fedora i3
+
+- Añade los repositorios rpmfusion, workstation 
+- Instalación de drivers gráficos Intel y soporte multimendia
+- Instalación de las siguientes aplicaciones:
+  - Kitty (Emulador de terminal)
+  - htop, ranger, cmus, mpv, zathura, 7zip, cava, nvim (Aplicaciones en terminal) 
+  - Google Chrome Firefox (Navegadores web)
+  - lxappareance (Gestiona l apariencia facilmente en i3wm)
+  - ligth (alternativa a Xbacklight) 
+  - thunar-archive-plugin (gestor de plugin para thunar)
+  - xarchiver (plugin de thunar para comprimir y descomprimir)
+
+Clona el repositorio
+```sh
+git clone https://github.com/andriuzha/Fedora_i3.git
+```
+
+Ingresa al directorio
+```sh
+cd Fedora_i3.git
+```
+
+Otorga permisos de ejecución al script 
+```sh
+chmod +x postInstall.sh 
+```
+
+Inicia el script
+```sh
+./postInstall.sh 
+```
+Al final la instalción el script, reiniciará el equipo. 
