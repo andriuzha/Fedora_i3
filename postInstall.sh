@@ -7,13 +7,13 @@ echo "Este Script realiza las siguientes acciones:
 - Añade los repositorios rpmfusion, workstation 
 - Instalación de drivers gráficos Intel y soporte multimendia
 - Instalación de las siguientes aplicaciones:
-  - Kitty (Emulador de terminal)
-	- htop, ranger, cmus, mpv, zathura, 7zip, cava, nvim (Aplicaciones en terminal) 
-  - Google Chrome Firefox (Navegadores web)
-  - lxappareance (Gestiona l apariencia facilmente en i3wm)
-  - ligth (alternativa a Xbacklight) 
-  - thunar-archive-plugin (gestor de plugin para thunar)
-  - xarchiver (plugin de thunar para comprimir y descomprimir)
+- Kitty (Emulador de terminal)
+- htop, ranger, cmus, mpv, zathura, 7zip, cava, nvim (Aplicaciones en terminal) 
+- Google Chrome Firefox (Navegadores web)
+- lxappareance (Gestiona l apariencia facilmente en i3wm)
+- ligth (alternativa a Xbacklight) 
+- thunar-archive-plugin (gestor de plugin para thunar)
+- xarchiver (plugin de thunar para comprimir y descomprimir)
 
 Se recomienda cerrar todas las aplicaciones antes de continuar.
 
