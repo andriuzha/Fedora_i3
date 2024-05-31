@@ -22,7 +22,7 @@ git clone https://github.com/andriuzha/Fedora_i3.git
 
 Ingresa al directorio
 ```sh
-cd Fedora_i3.git
+cd Fedora_i3
 ```
 
 Otorga permisos de ejecución al script 
