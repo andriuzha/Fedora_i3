@@ -2,6 +2,8 @@
 
 ## Repositorio de configuraciones de Fedora i3
 
+Este script, realiza las siguientes acciones:
+
 - Añade los repositorios rpmfusion, workstation 
 - Instalación de drivers gráficos Intel y soporte multimendia
 - Instalación de las siguientes aplicaciones:
@@ -32,4 +34,4 @@ Inicia el script
 ```sh
 ./postInstall.sh 
 ```
-Al final la instalción el script, reiniciará el equipo. 
+Al final la instalción, el script reiniciará el equipo. 
